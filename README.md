@@ -49,6 +49,7 @@ Switch on the RPS.
 Set the input voltage to a value between 0V to 30V.
 Record the voltage values shown in the ammeter connected to each resistor.
 Take readings for different values of input voltage and tabulate them.
+
 # CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-09-14 at 5 11 40 PM](https://github.com/user-attachments/assets/1e512025-bb50-4b77-a8e2-5f4a4ae1048c)
 
@@ -63,5 +64,6 @@ b. KCL:
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d07e20b1-7a54-4e26-af5f-39f4b4b1dad2" />
 
-RESULT:
+# RESULT:
+
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
